@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color: red;
+    font-size: 80px;
+}
+
+h3{
+    text-align: left;
+    color: black;
+    font-size: 50px;
+}
+
+a {
+    text-align: center;
+    font-style: italic;
+    background-color: lightgrey;
+    color: black;
+    font-size: 25px;
+}
+
+.header {
+    font-weight: lighter;
+}
+
+.small {
+ font-size: 30px;
+}
+
+.big {
+font-size: 60px;
+}
+
+img {
+    max-height: 400px;
+    max-width: 400px;
+}
+
+body {
+    background-image: url("home_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
